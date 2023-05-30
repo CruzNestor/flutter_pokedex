@@ -11,7 +11,7 @@ This application is developed with Flutter, it consumed the API RESTful [PokeApi
 - [flutter_bloc](https://pub.dev/packages/flutter_bloc) - Widgets that make it easy to integrate blocs and cubits into Flutter. Built to work with package: bloc.
 - [get_it](https://pub.dev/packages/get_it) - This is a simple Service Locator for Dart and Flutter projects with some additional goodies highly inspired by Splat. It can be used instead of InheritedWidget or Provider to access objects e.g. from your UI.
 - [marquee](https://pub.dev/packages/marquee) - A Flutter widget that scrolls text infinitely.
-- [path](https://pub.dev/packages/path) - A comprehensive, cross-platform path manipulation library for Dart.
+- [path](https://pub.dev/packages/path) - The path package provides common operations for manipulating paths: joining, splitting, normalizing, etc.
 - [sliver_tools](https://pub.dev/packages/sliver_tools) - A set of useful sliver tools that are missing from the flutter framework.
 - [transparent_image](https://pub.dev/packages/transparent_image) - A simple transparent image. Represented as a Uint8List, which was originally extracted from the Flutter codebase.
 
